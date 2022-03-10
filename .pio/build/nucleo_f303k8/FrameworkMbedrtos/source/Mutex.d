@@ -1,0 +1,21 @@
+.pio/build/nucleo_f303k8/FrameworkMbedrtos/source/Mutex.o: \
+ /Users/maya/.platformio/packages/framework-mbed/rtos/source/Mutex.cpp \
+ .pio/build/nucleo_f303k8/mbed_config.h \
+ /Users/maya/.platformio/packages/framework-mbed/rtos/include/rtos/Mutex.h \
+ /Users/maya/.platformio/packages/framework-mbed/rtos/include/rtos/mbed_rtos_types.h \
+ /Users/maya/.platformio/packages/framework-mbed/cmsis/CMSIS_5/CMSIS/RTOS2/Include/cmsis_os2.h \
+ /Users/maya/.platformio/packages/framework-mbed/rtos/include/rtos/internal/mbed_rtos1_types.h \
+ /Users/maya/.platformio/packages/framework-mbed/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include1/cmsis_os.h \
+ /Users/maya/.platformio/packages/framework-mbed/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_os.h \
+ /Users/maya/.platformio/packages/framework-mbed/rtos/include/rtos/internal/mbed_rtos_storage.h \
+ /Users/maya/.platformio/packages/framework-mbed/cmsis/device/rtos/include/mbed_rtx_storage.h \
+ /Users/maya/.platformio/packages/framework-mbed/cmsis/device/rtos/include/mbed_rtx_conf.h \
+ /Users/maya/.platformio/packages/framework-mbed/targets/TARGET_STM/mbed_rtx.h \
+ /Users/maya/.platformio/packages/framework-mbed/rtos/include/rtos/Kernel.h \
+ /Users/maya/.platformio/packages/framework-mbed/platform/include/platform/mbed_toolchain.h \
+ /Users/maya/.platformio/packages/framework-mbed/platform/include/platform/mbed_preprocessor.h \
+ /Users/maya/.platformio/packages/framework-mbed/platform/include/platform/NonCopyable.h \
+ /Users/maya/.platformio/packages/framework-mbed/platform/include/platform/ScopedLock.h \
+ /Users/maya/.platformio/packages/framework-mbed/platform/include/platform/mbed_error.h \
+ /Users/maya/.platformio/packages/framework-mbed/platform/include/platform/mbed_retarget.h \
+ /Users/maya/.platformio/packages/framework-mbed/platform/include/platform/mbed_assert.h

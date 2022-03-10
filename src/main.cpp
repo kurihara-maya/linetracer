@@ -34,14 +34,14 @@ int main(void) {
     voltage_now5 = s5.read_u16();
     voltage_now6 = s6.read_u16();
     //  printf("%u\n",voltage_now1);
-    if (voltage_now4 > 500 || voltage_now5 > 500) {
+    if (voltage_now4 > 56000 && voltage_now5 > 500) {
       AIN1 = 1;
       AIN2 = 0;
       BIN1 = 1;
       BIN2 = 0;
       PWMA = 0.05;
       PWMB = 0.05;  //直進
-      printf("front,%u,%u\n",voltage_now5, voltage_now4);
+      printf("front,%u,%u\n", voltage_now5, voltage_now4);
     } else if (voltage_now3 > 500) {
       AIN1 = 1;
       AIN2 = 0;
